@@ -53,7 +53,7 @@ public class ShopUIManager : MonoBehaviour
 
 
 
-
+    //.
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.S))  // S 키를 눌렀을 때

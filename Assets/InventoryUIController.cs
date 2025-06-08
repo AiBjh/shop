@@ -4,7 +4,7 @@ public class InventoryUIManager : MonoBehaviour
 {
     public GameObject inventoryPanel;
 
-    void Update()
+    void Update() //.
     {
         if (Input.GetKeyDown(KeyCode.I))
         {

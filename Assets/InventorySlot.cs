@@ -18,3 +18,4 @@ public class InventorySlot : MonoBehaviour
         return isEmpty;
     }
 }
+//..

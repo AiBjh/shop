@@ -5,7 +5,7 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance;
 
-    public List<InventorySlot> slots; // Inspector에 슬롯들 연결
+    public List<InventorySlot> slots; // Inspector에 슬롯들 연결.
 
     private void Awake()
     {
